@@ -51,10 +51,7 @@
 
 ```
 @inproceedings{fudong:cikm22:cascade_vae,
-  author    = {Fudong Lin and
-               Xu Yuan and
-               Lu Peng and
-               Nian{-}Feng Tzeng},
+  author    = {Fudong Lin and Xu Yuan and Lu Peng and Nian{-}Feng Tzeng},
   title     = {Cascade Variational Auto-Encoder for Hierarchical Disentanglement},
   booktitle = {Proceedings of the 31st {ACM} International Conference on Information
                {\&} Knowledge Management (CIKM)},
@@ -72,10 +69,7 @@
 
 ```
 @inproceedings{fudong:ijcai21:oversampling,
-  author    = {Yi He and
-               Fudong Lin and
-               Xu Yuan and
-               Nian{-}Feng Tzeng},
+  author    = {Yi He and Fudong Lin and Xu Yuan and Nian{-}Feng Tzeng},
   title     = {Interpretable Minority Synthesis for Imbalanced Classification},
   booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial
                Intelligence (IJCAI)},
