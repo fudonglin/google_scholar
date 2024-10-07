@@ -1,7 +1,7 @@
 # Published Papers
 
 ### 6. Towards Robust Vision Transformer via Masked Adaptive Ensemble
-- Deep Learning, AI Security, Computer Vision, Adversarial Attacks and Defenses    
+- Deep Learning, AI Security, Adversarial Attacks and Defenses, Vision Transformers, Compter Vision    
 - BibTex:
 ```
 @article{fudong:cikm24:mae,
