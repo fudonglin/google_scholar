@@ -5,12 +5,7 @@
 - BibTex:
 ```
 @inproceedings{fudong:kdd24:crop_net,
-  author       = {Fudong Lin and
-                  Kaleb Guillot and
-                  Summer Crawford and
-                  Yihe Zhang and
-                  Xu Yuan and
-                  Nian{-}Feng Tzeng},
+  author       = {Fudong Lin and Kaleb Guillot and Summer Crawford and Yihe Zhang and Xu Yuan and Nian{-}Feng Tzeng},
   title        = {An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware
                   Crop Yield Predictions},
   booktitle    = {Proceedings of the 30th {ACM} {SIGKDD} Conference on Knowledge Discovery
