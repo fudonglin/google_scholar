@@ -4,7 +4,7 @@
 - Deep Learning, AI Security, Computer Vision, Adversarial Attacks and Defenses    
 - BibTex:
 ```
-@article{lin2024towards,
+@article{fudong:cikm24:mae,
   title={Towards Robust Vision Transformer via Masked Adaptive Ensemble},
   author={Lin, Fudong and Lou, Jiadong and Yuan, Xu and Tzeng, Nian-Feng},
   journal={arXiv preprint arXiv:2407.15385},
