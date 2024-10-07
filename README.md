@@ -65,8 +65,7 @@
 @inproceedings{fudong:cikm22:cascade_vae,
   author    = {Fudong Lin and Xu Yuan and Lu Peng and Nian{-}Feng Tzeng},
   title     = {Cascade Variational Auto-Encoder for Hierarchical Disentanglement},
-  booktitle = {Proceedings of the 31st {ACM} International Conference on Information
-               {\&} Knowledge Management (CIKM)},
+  booktitle = {Proceedings of the 31st {ACM} International Conference on Information {\&} Knowledge Management (CIKM)},
   pages     = {1248--1257},
   year      = {2022}
 }
