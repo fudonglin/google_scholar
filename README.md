@@ -67,7 +67,7 @@
 
 ### 1. Interpretable Minority Synthesis for Imbalanced Classification
 
-- Category: AI, DL, CV, Long-tailed recognition, Oversampling
+- Category: AI, DL, CV, Imbalanced Classification, Oversampling
 - BibTeX: 
 
 ```
