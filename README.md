@@ -8,8 +8,7 @@
   author       = {Fudong Lin and Kaleb Guillot and Summer Crawford and Yihe Zhang and Xu Yuan and Nian{-}Feng Tzeng},
   title        = {An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware
                   Crop Yield Predictions},
-  booktitle    = {Proceedings of the 30th {ACM} {SIGKDD} Conference on Knowledge Discovery
-                  and Data Mining, {KDD} 2024, Barcelona, Spain, August 25-29, 2024},
+  booktitle    = {{ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining (KDD)},
   pages        = {5375--5386},
   year         = {2024}
 }
@@ -20,11 +19,11 @@
 - BibTex:
 ```
 @inproceedings{fudong:iccv23:mmst_vit,
-    author    = {Lin, Fudong and Crawford, Summer and Guillot, Kaleb and Zhang, Yihe and Chen, Yan and Yuan, Xu and others},
-    title     = {MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer},
-    booktitle = {IEEE/CVF International Conference on Computer Vision (ICCV)},
-    year      = {2023},
-    pages     = {5774--5784}
+  author       = {Fudong Lin and Summer Crawford and Kaleb Guillot and Yihe Zhang and Yan Chen and Xu Yuan and others},
+  title        = {MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer},
+  booktitle    = {{IEEE/CVF} International Conference on Computer Vision (ICCV)},
+  pages        = {5751--5761},
+  year         = {2023}
 }
 ```
 
