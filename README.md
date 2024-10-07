@@ -1,5 +1,17 @@
 # Published Papers
 
+### 6. Towards Robust Vision Transformer via Masked Adaptive Ensemble
+- Deep Learning, AI Security, Computer Vision, Adversarial Attacks and Defenses    
+- BibTex:
+```
+@article{lin2024towards,
+  title={Towards Robust Vision Transformer via Masked Adaptive Ensemble},
+  author={Lin, Fudong and Lou, Jiadong and Yuan, Xu and Tzeng, Nian-Feng},
+  journal={arXiv preprint arXiv:2407.15385},
+  year={2024}
+}
+```
+
 ### 5. An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions
 - Deep Learning, Dataset and Benchmarks, Vision Transformers, Contrastive Learning, AI for Science, Crop Yield Predictions, Climate change-related applications
 - BibTex:
