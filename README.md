@@ -1,5 +1,25 @@
 # Published Papers
 
+### 7. BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis
+- AI for Healthcare, AI for Science, Dataset and Benchmarks, Multi-Modal Learning
+- BibTex:
+
+```
+@inproceedings{tiankuo:iclr25:bonemet,
+  author       = {Tiankuo Chu and
+                  Fudong Lin and
+                  Shubo Wang and
+                  Jason Jiang and
+                  Wiley Jia{-}Wei Gong and
+                  Xu Yuan and
+                  Liyun Wang},
+  title        = {BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast
+                  Cancer Bone Metastasis Diagnosis and Prognosis},
+  booktitle    = {The Thirteenth International Conference on Learning Representations (ICLR)},
+  year         = {2025}
+}
+```
+
 ### 6. Towards Robust Vision Transformer via Masked Adaptive Ensemble
 - Deep Learning, AI Security, Adversarial Attacks and Defenses, Vision Transformers, Computer Vision    
 - BibTex:
