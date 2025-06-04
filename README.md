@@ -4,10 +4,11 @@
 - Deep Learning, AI Security, Adversarial Attacks and Defenses, Vision Transformers, Computer Vision    
 - BibTex:
 ```
-@article{fudong:cikm24:mae,
+@inproceedings{fudong:cikm24:mat,
   title={Towards Robust Vision Transformer via Masked Adaptive Ensemble},
   author={Lin, Fudong and Lou, Jiadong and Yuan, Xu and Tzeng, Nian-Feng},
-  journal={arXiv preprint arXiv:2407.15385},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)},
+  pages={1389--1399},
   year={2024}
 }
 ```
