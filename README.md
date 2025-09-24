@@ -1,5 +1,32 @@
 # Published Papers
 
+
+### 9. Do Protein Transformers Have Biological Intelligence?
+- AI for Science, Protein, Transformer
+- BibTex:
+
+```
+@article{lin2025protein,
+  title={Do Protein Transformers Have Biological Intelligence?},
+  author={Lin, Fudong and Du, Wanrou and Liu, Jinchan and Milon, Tarikul and Meche, Shelby and Xu, Wu and Qin, Xiaoqi and Yuan, Xu},
+  journal={arXiv preprint arXiv:2506.06701},
+  year={2025}
+}
+```
+
+### 8. Towards Interpretable Adversarial Examples via Sparse Adversarial Attack
+- Deep Learning, AI Security, Adversarial Attacks and Defenses,
+- BibTex:
+```
+@article{lin2025towards,
+  title={Towards Interpretable Adversarial Examples via Sparse Adversarial Attack},
+  author={Lin, Fudong and Lou, Jiadong and Wang, Hao and Jalaian, Brian and Yuan, Xu},
+  journal={arXiv preprint arXiv:2506.17250},
+  year={2025}
+}
+```
+
+
 ### 7. BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis
 - AI for Healthcare, AI for Science, Dataset and Benchmarks, Multi-Modal Learning
 - BibTex:
